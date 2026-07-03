@@ -1,0 +1,16 @@
+build/
+.dart_tool/
+.packages
+.pub-cache/
+.pub/
+*.iml
+*.ipr
+*.iws
+.idea/
+android/.gradle/
+android/local.properties
+android/gradle-wrapper.jar
+android/**/GeneratedPluginRegistrant.java
+**/android/key.properties
+*.jks
+*.g.dart.bak
