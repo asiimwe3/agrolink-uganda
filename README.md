@@ -1,18 +1,70 @@
-# AgroLink Uganda
+# agrolink-uganda
 
-Farmer & SACCO Super App built with Flutter + Supabase.
+🌾 AgroLink Uganda — farmer & SACCO super app built with Flutter + Supabase. Features marketplace, weather, savings groups, and market prices.
 
-## Features
-- Farmer registration & profiles
-- SACCO savings & loans
-- Market price tracking
-- Weather forecasts
-- Marketplace
+## 🚀 Features
 
-## Tech Stack
-- Flutter
-- Supabase (PostgreSQL + Auth)
-- Dart
+- Modern, responsive UI design
+- Optimized performance and fast load times
+- Cross-platform compatibility
+- Clean, maintainable codebase
+- Production-ready architecture
+
+## 🛠️ Tech Stack
+
+| Category | Technology |
+|----------|-----------|
+| Language | Dart |
+| Type | Application |
+
+## 📦 Installation
+
+```bash
+# Clone the repository
+git clone https://github.com/asiimwe3/agrolink-uganda.git
+cd agrolink-uganda
+
+# Install dependencies
+flutter pub get
+
+# Start development
+flutter run
+```
+
+## 🔧 Build
+
+```bash
+flutter build apk
+```
+
+## 📁 Project Structure
+
+```
+agrolink-uganda/
+├── src/          # Source code
+├── docs/         # Documentation
+├── public/       # Static assets
+├── LICENSE       # MIT License
+└── README.md     # You are here
+```
+
+## 🤝 Contributing
+
+1. Fork the repository
+2. Create your feature branch (`git checkout -b feature/amazing-feature`)
+3. Commit your changes (`git commit -m 'Add amazing feature'`)
+4. Push to the branch (`git push origin feature/amazing-feature`)
+5. Open a Pull Request
+
+## 📄 License
+
+This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
+
+## 📞 Contact
+
+**Asiimwe Derick**
+- GitHub: [@asiimwe3](https://github.com/asiimwe3)
 
 ---
-*This is a mobile app — no web deployment available.*
+
+<p align="center">Made with ❤️ in Uganda 🇺🇬</p>
